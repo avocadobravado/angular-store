@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: tomato;
+  font-size: 3em;
+}
+
+* {
+  font-size: 1.01em;
+}
